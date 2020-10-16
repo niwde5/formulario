@@ -30,3 +30,4 @@ esta es la practica de la maqueta una página web estática con formulario de re
 	</div>
 </body>
 </html>
+![Captura de pantalla de 2020-10-15 22-56-40](https://user-images.githubusercontent.com/72904875/96212394-66acff00-0f3c-11eb-95e3-e40a7a571db6.png)
