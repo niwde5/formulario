@@ -1,6 +1,8 @@
 # formulario
 esta es la practica de la maqueta una página web estática con formulario de registro, a la cual deberá implementar estilos aplicando herencia y agrupación de selectores
+se confirmo su compatibilidad atraves de Mozilla e Yahoo
 
+``` html 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -12,10 +14,9 @@ esta es la practica de la maqueta una página web estática con formulario de re
 	<title>Formulario</title>
 </head>
 <body>
-
 	<div class="container">
 		<div class="form_top">
-			<h2>Formulario<span>Registro</span></h2>
+			<h2>Formulario<span>Registro</span></h2>:
 		</div>
 		<form class="form_reg"action="">
 			<input class="input" type="text" placeholder=&#128100;Nombre" required autofocus>
@@ -30,4 +31,8 @@ esta es la practica de la maqueta una página web estática con formulario de re
 	</div>
 </body>
 </html>
-![Captura de pantalla de 2020-10-15 22-56-40](https://user-images.githubusercontent.com/72904875/96212394-66acff00-0f3c-11eb-95e3-e40a7a571db6.png)
+```
+###mozilla firefox
+![Captura de pantalla de 2020-10-15 22-56-40](https://user-images.githubusercontent.com/72904875/96211670-90652680-0f3a-11eb-90c1-605b3b2e03a0.png)
+###Yahoo
+![WhatsApp Image 2020-10-15 at 11 32 24 PM](https://user-images.githubusercontent.com/72904875/96213614-15ead580-0f3f-11eb-9b78-897a039792c3.jpeg)
